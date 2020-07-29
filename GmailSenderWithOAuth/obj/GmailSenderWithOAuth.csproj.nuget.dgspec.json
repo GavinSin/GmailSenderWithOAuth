@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gavin\\source\\repos\\GmailSenderWithOAuth\\GmailSenderWithOAuth\\GmailSenderWithOAuth.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gavin\\source\\repos\\GmailSenderWithOAuth\\GmailSenderWithOAuth\\GmailSenderWithOAuth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gavin\\source\\repos\\GmailSenderWithOAuth\\GmailSenderWithOAuth\\GmailSenderWithOAuth.csproj",
+        "projectName": "GmailSenderWithOAuth",
+        "projectPath": "C:\\Users\\Gavin\\source\\repos\\GmailSenderWithOAuth\\GmailSenderWithOAuth\\GmailSenderWithOAuth.csproj",
+        "packagesPath": "C:\\Users\\Gavin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gavin\\source\\repos\\GmailSenderWithOAuth\\GmailSenderWithOAuth\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gavin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.48.0, )"
+            },
+            "Google.Apis.Gmail.v1": {
+              "target": "Package",
+              "version": "[1.48.0.2027, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

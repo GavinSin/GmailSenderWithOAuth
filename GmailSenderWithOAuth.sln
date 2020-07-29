@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GmailSenderWithOAuth", "GmailSenderWithOAuth\GmailSenderWithOAuth.csproj", "{68B9A46F-6575-4FCF-B04C-8CAC6A1B0E51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B9A46F-6575-4FCF-B04C-8CAC6A1B0E51}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{68B9A46F-6575-4FCF-B04C-8CAC6A1B0E51}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{68B9A46F-6575-4FCF-B04C-8CAC6A1B0E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B9A46F-6575-4FCF-B04C-8CAC6A1B0E51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1C8C5BA-0612-428C-A439-C79C63E56658}
+	EndGlobalSection
+EndGlobal

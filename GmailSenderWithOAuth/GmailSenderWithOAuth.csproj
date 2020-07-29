@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net4.7.2</TargetFramework>
+    <RootNamespace>GmailSenderWithOAuth</RootNamespace>
+    <AssemblyName>GmailSenderWithOAuth</AssemblyName>
+	<DebugType>None</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Auth" Version="1.48.0" />
+    <PackageReference Include="Google.Apis.Gmail.v1" Version="1.48.0.2027" />
+    <PackageReference Include="MailKit" Version="2.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="credentials.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
