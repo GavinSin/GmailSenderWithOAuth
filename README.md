@@ -1,4 +1,4 @@
-## GmailSenderWithOAuth
+## GmailSenderWithOAuth (C#)
 As far as I know, there are 2 ways to send an automated email:
 
  1. Sending using a simple powershell script with plain **username** and **password**. SMTP server of Google and Outlook will automatically blocked the script from sending. Thus, a workaround is to enable a **Less Secure App** setting, to allow script to execute the email. This will makes the email less secure overall and is not recommended.
@@ -50,5 +50,5 @@ gmailSender.SendGmail();
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzgyODA4OF19
+eyJoaXN0b3J5IjpbNTI4MjY0MjMzLC0yNDM4MjgwODhdfQ==
 -->
