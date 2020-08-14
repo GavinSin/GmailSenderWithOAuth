@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "k0m0rTU8hFhgpIc1D8yj/4WtSuFK9RV1sxcLM1wEkJ+Zlv5aUOsL6WPldWw1oVydqDQzCN4gbCUDPAdkUnAJ7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gavin\\source\\repos\\GmailSenderWithOAuth\\GmailSenderWithOAuth\\GmailSenderWithOAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gavin\\.nuget\\packages\\google.apis\\1.48.0\\google.apis.1.48.0.nupkg.sha512",
+    "C:\\Users\\Gavin\\.nuget\\packages\\google.apis.auth\\1.48.0\\google.apis.auth.1.48.0.nupkg.sha512",
+    "C:\\Users\\Gavin\\.nuget\\packages\\google.apis.core\\1.48.0\\google.apis.core.1.48.0.nupkg.sha512",
+    "C:\\Users\\Gavin\\.nuget\\packages\\google.apis.gmail.v1\\1.48.0.2027\\google.apis.gmail.v1.1.48.0.2027.nupkg.sha512",
+    "C:\\Users\\Gavin\\.nuget\\packages\\mailkit\\2.8.0\\mailkit.2.8.0.nupkg.sha512",
+    "C:\\Users\\Gavin\\.nuget\\packages\\mimekit\\2.9.1\\mimekit.2.9.1.nupkg.sha512",
+    "C:\\Users\\Gavin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Gavin\\.nuget\\packages\\portable.bouncycastle\\1.8.5\\portable.bouncycastle.1.8.5.nupkg.sha512"
+  ],
+  "logs": []
+}
